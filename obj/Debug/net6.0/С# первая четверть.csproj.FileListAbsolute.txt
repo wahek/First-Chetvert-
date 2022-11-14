@@ -1,0 +1,15 @@
+C:\Users\wahek\OneDrive\Desktop\seminar\C#\С# первая четверть\bin\Debug\net6.0\С# первая четверть.exe
+C:\Users\wahek\OneDrive\Desktop\seminar\C#\С# первая четверть\bin\Debug\net6.0\С# первая четверть.deps.json
+C:\Users\wahek\OneDrive\Desktop\seminar\C#\С# первая четверть\bin\Debug\net6.0\С# первая четверть.runtimeconfig.json
+C:\Users\wahek\OneDrive\Desktop\seminar\C#\С# первая четверть\bin\Debug\net6.0\С# первая четверть.dll
+C:\Users\wahek\OneDrive\Desktop\seminar\C#\С# первая четверть\bin\Debug\net6.0\С# первая четверть.pdb
+C:\Users\wahek\OneDrive\Desktop\seminar\C#\С# первая четверть\obj\Debug\net6.0\С# первая четверть.csproj.AssemblyReference.cache
+C:\Users\wahek\OneDrive\Desktop\seminar\C#\С# первая четверть\obj\Debug\net6.0\С# первая четверть.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wahek\OneDrive\Desktop\seminar\C#\С# первая четверть\obj\Debug\net6.0\С# первая четверть.AssemblyInfoInputs.cache
+C:\Users\wahek\OneDrive\Desktop\seminar\C#\С# первая четверть\obj\Debug\net6.0\С# первая четверть.AssemblyInfo.cs
+C:\Users\wahek\OneDrive\Desktop\seminar\C#\С# первая четверть\obj\Debug\net6.0\С# первая четверть.csproj.CoreCompileInputs.cache
+C:\Users\wahek\OneDrive\Desktop\seminar\C#\С# первая четверть\obj\Debug\net6.0\С# первая четверть.dll
+C:\Users\wahek\OneDrive\Desktop\seminar\C#\С# первая четверть\obj\Debug\net6.0\refint\С# первая четверть.dll
+C:\Users\wahek\OneDrive\Desktop\seminar\C#\С# первая четверть\obj\Debug\net6.0\С# первая четверть.pdb
+C:\Users\wahek\OneDrive\Desktop\seminar\C#\С# первая четверть\obj\Debug\net6.0\С# первая четверть.genruntimeconfig.cache
+C:\Users\wahek\OneDrive\Desktop\seminar\C#\С# первая четверть\obj\Debug\net6.0\ref\С# первая четверть.dll
